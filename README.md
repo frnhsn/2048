@@ -1,2 +1,1 @@
-# 2048
-2048 puzzle game inspired by original creator Gabriele Cirulli. Contain games logic only
+This contain games logic only. Basically just an excersie for me in building an algortihm and practicing OOP.
